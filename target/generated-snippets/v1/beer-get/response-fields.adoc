@@ -1,0 +1,40 @@
+|===
+|Path|Type|Description
+
+|`+id+`
+|`+UUID+`
+|Id of the request beer
+
+|`+version+`
+|`+Integer+`
+|API version
+
+|`+createdDate+`
+|`+date time+`
+|date when this beer was created
+
+|`+lastModifiedDate+`
+|`+date time+`
+|date modified
+
+|`+beerName+`
+|`+String+`
+|beer name
+
+|`+beerStyle+`
+|`+String+`
+|beer kind
+
+|`+upc+`
+|`+Long Integer+`
+|unique identifier
+
+|`+price+`
+|`+Floating point+`
+|price of beer
+
+|`+quantityOnHand+`
+|`+Integer+`
+|quantity of beer 
+
+|===

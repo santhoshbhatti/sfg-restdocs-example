@@ -1,0 +1,11 @@
+/home/santoshb/azure_notes/sfg-restdocs-example/src/main/java/guru/springframework/sfgrestdocsexample/repositories/BeerRepository.java
+/home/santoshb/azure_notes/sfg-restdocs-example/src/main/java/guru/springframework/sfgrestdocsexample/web/model/BeerPagedList.java
+/home/santoshb/azure_notes/sfg-restdocs-example/src/main/java/guru/springframework/sfgrestdocsexample/web/mappers/BeerMapper.java
+/home/santoshb/azure_notes/sfg-restdocs-example/src/main/java/guru/springframework/sfgrestdocsexample/web/model/BeerStyleEnum.java
+/home/santoshb/azure_notes/sfg-restdocs-example/src/main/java/guru/springframework/sfgrestdocsexample/SfgRestdocsExampleApplication.java
+/home/santoshb/azure_notes/sfg-restdocs-example/src/main/java/guru/springframework/sfgrestdocsexample/web/controller/BeerController.java
+/home/santoshb/azure_notes/sfg-restdocs-example/src/main/java/guru/springframework/sfgrestdocsexample/domain/Beer.java
+/home/santoshb/azure_notes/sfg-restdocs-example/src/main/java/guru/springframework/sfgrestdocsexample/web/model/BeerDto.java
+/home/santoshb/azure_notes/sfg-restdocs-example/src/main/java/guru/springframework/sfgrestdocsexample/bootstrap/BeerLoader.java
+/home/santoshb/azure_notes/sfg-restdocs-example/src/main/java/guru/springframework/sfgrestdocsexample/web/controller/MvcExceptionHandler.java
+/home/santoshb/azure_notes/sfg-restdocs-example/src/main/java/guru/springframework/sfgrestdocsexample/web/mappers/DateMapper.java

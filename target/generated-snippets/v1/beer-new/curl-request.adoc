@@ -1,0 +1,6 @@
+[source,bash]
+----
+$ curl 'https://sfg.springframework.com:9090/api/v1/beer/' -i -X POST \
+    -H 'Content-Type: application/json' \
+    -d '{"id":null,"version":null,"createdDate":null,"lastModifiedDate":null,"beerName":"Nice Ale","beerStyle":"ALE","upc":123123123123,"price":9.99,"quantityOnHand":null}'
+----
